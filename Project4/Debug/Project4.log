@@ -1,0 +1,12 @@
+﻿  employeeForm.cpp
+  login.cpp
+D:\BSCS\1\comp prog\database\Project4\MyForm.h(1039,1): error C2440: '=': cannot convert from 'data::info::STRUCT *' to 'STRUCT *'
+D:\BSCS\1\comp prog\database\Project4\MyForm.h(1039,30): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+D:\BSCS\1\comp prog\database\Project4\MyForm.h(1097,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\BSCS\1\comp prog\database\Project4\MyForm.h(1098,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\BSCS\1\comp prog\database\Project4\MyForm.h(1099,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\BSCS\1\comp prog\database\Project4\MyForm.h(1103,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\BSCS\1\comp prog\database\Project4\MyForm.h(1105,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  MyForm.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
